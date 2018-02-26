@@ -1,5 +1,8 @@
 # Ionic Shopping List Application
 
+[Udemy Course - Create a CRUD Application with Ionic 3 and Firebase](https://www.udemy.com/create-a-crud-application-with-ionic-3-and-firebase/learn/v4/overview "Create a CRUD Application with Ionic 3 and Firebase")
+
+
 ## Ionic 3 Firebase Crud App 
 
 This is  a crud application using ionic 3 and firebase database. It's a Shopping List application, created for study about Ionic 
